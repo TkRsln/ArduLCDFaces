@@ -8,6 +8,7 @@ class ScreenO {
 		/*
 			ASYNC functions are not realy asyncron but their behave depends on time.
 			So you can change the face without waiting animations.
+			LastEdit: 28.11.2021 01:09
 		*/
 		//**Important! Put this in a Loop function
 		void mainEngine();
