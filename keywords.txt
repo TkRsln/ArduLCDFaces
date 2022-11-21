@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map Leg
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ScreenO	KEYWORD1	ScreenO
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+mainEngine	KEYWORD2
+mainSetup	KEYWORD2
+setFace	KEYWORD2
+setPosition	KEYWORD2
+setAutoEyeMove	KEYWORD2
+setAutoFace	KEYWORD2
+increaseEmotion	KEYWORD2
+decreaseEmotion	KEYWORD2
+setEmotion	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
